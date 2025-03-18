@@ -22,8 +22,6 @@ Zadig & Voltaire: Magento + Vue Storefront magento 2
 
 
 ## strategies are listed below:
-- Headless CMS integration - Netlify, Strapi and Sanity many more...
-- Using Progressive Web Apps -
 - Building a framework - 
     -  Removing frontend rendering 
     -  Redirect to admin Panel (backend) using server configuration
