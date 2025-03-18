@@ -7,6 +7,7 @@
 - PWA Studio by Adobe Commerce [REACT JS]
 - Gatsby (https://github.com/gatsbyjs/gatsby) [NEXT JS]
 - SVELTE COMMERCE (https://github.com/itswadesh/svelte-commerce) [svelte]
+- SVELTE COMMERCE open-source Sveltekit Tailwind (https://github.com/martykuentzel/sveltekit-tailwind-ecommerce) [svelte]
 - Daffodil (https://next.daff.io/) [Angular]
 - Front-Commerce (www.front-commerce.com) [REACT]
 - Go PWA (https://www.gomage.com/magento-2-pwa/storefront)
