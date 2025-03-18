@@ -22,7 +22,11 @@ Zadig & Voltaire: Magento + Vue Storefront magento 2
 
 
 ## strategies are listed below:
-- Building a framework - 
+- Building a framework -
+    - Frontend rendering is removed from Magento 2, and the front-end is entirely handled by a headless framework (React, Vue, Next.js, etc.).
+    - Magento APIs (GraphQL or REST) serve as the communication layer between the back-end (Magento 2) and the front-end.
+    - Custom API Endpoints (optional) can be added for additional features.
+    - Authentication and security are handled via Bearer Tokens or OAuth for API access.
     -  Removing frontend rendering 
     -  Redirect to admin Panel (backend) using server configuration
-    -  
+  
