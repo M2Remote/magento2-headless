@@ -14,7 +14,7 @@
 - Rapidez (https://rapidez.io/) [vue]
 - Storefront X (https://www.storefrontx.io/)
 - React Storefront (https://www.reactstorefront.io/)
-- 
+- Adyen Vuejs (https://github.com/adyen-examples/magento-headless-demo) 
 
 ## examples
 Eleganza: Magento + PWA Studio
